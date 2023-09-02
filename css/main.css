@@ -1,0 +1,21 @@
+body {
+    background-color: #b1b1b1;
+    font-family: tahoma,sans-serif;
+    direction: ltr;
+    background-image:url(/images/44.jpg);
+    background-size: cover; 
+    
+}
+
+#h3_main{
+    color: aliceblue;
+    font-size: larger;
+    font-weight: bold;
+
+}
+ p{
+    color: aquamarine;
+ }
+
+ 
+ 
