@@ -34,3 +34,13 @@ body {
 #git_ok_buttom::selection{
     background-color: #b1b1b1;
 }
+
+#to_search{
+    margin: 100px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+
+}
