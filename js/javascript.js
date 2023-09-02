@@ -171,4 +171,6 @@ switch (xxx){
       break;
 }
 
+document.getElementById("git_ok_buttom").innerHTML="That os right";
+
 // we add js to git stage
